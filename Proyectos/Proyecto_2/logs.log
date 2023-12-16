@@ -1,0 +1,158 @@
+2023-12-16 19:36:56,883:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-16 19:36:56,884:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-16 19:36:56,884:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-16 19:36:56,884:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-16 20:17:16,615:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:16,845:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:17,032:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:17,127:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:17,306:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:17,497:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:17,722:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:17,817:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:17,890:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:18,085:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:18,337:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:18,464:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:18,590:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:18,717:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:18,923:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:19,246:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:19,482:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:19,658:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:19,911:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:20,126:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:20,286:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:20,448:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:20,598:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:20,790:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:20,964:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:21,219:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:21,378:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:21,545:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:21,759:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:22,024:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:22,307:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:22,446:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:22,608:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:22,780:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:22,973:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:23,135:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:23,268:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:23,447:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:23,595:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:23,712:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:23,912:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:24,110:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:24,324:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:24,517:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:24,736:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:24,892:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:25,249:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:25,462:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:25,615:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
+2023-12-16 20:17:25,861:WARNING:C:\Users\Mathias\AppData\Local\Temp\ipykernel_14212\2930372439.py:38: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  'learning_rate': trial.suggest_loguniform('learning_rate', 1e-4, 1),
+
